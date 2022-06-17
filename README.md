@@ -3,6 +3,7 @@ This basic web app is able to detect and identify brain tumor(s) in an MRI scan.
 
 [YoloV5](https://github.com/ultralytics/yolov5) was used to train the default model and labelling the images was done using [MakeSense](https://www.makesense.ai/). The  [Brain Tumor Object Detection Datasets](https://www.kaggle.com/datasets/davidbroberts/brain-tumor-object-detection-datasets) was used for training and testing.
 
+![](Screenshot.png)
 
 ## Setup Guide
 Few steps to follow before getting started.
